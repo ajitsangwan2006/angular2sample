@@ -1,2 +1,3 @@
 dist
 .settings
+node_modules
